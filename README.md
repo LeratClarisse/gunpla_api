@@ -1,5 +1,16 @@
 # gunpla_api
 
-Script Python/Selenium to scrap datas from https://gundam.fandom.com/wiki
+CsvDatas : Raw datas formatted as CSV (;) from https://gundam.fandom.com/wiki/Gunpla
 
-The goal is to create a public REST API
+db_gunpla.sqlite : Database created from the CSVs
+
+Include :
+- PG
+- HG
+- HGUC
+- RG
+- MG
+- RE/100
+
+
+You can send me a message if something is missing
