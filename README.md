@@ -5,7 +5,6 @@ CsvDatas : Raw datas formatted as CSV (;) from https://gundam.fandom.com/wiki/Gu
 db_gunpla.sqlite : Database created from the CSVs
 
 Include :
-- HG
 - HGUC
 - RG
 - MG
